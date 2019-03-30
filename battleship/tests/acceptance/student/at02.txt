@@ -1,0 +1,13 @@
+-- user test 2
+bomb([A,1],[A,2])
+debug_test(easy)
+bomb([A,1],[A,2])
+fire([A,1])
+fire([A,2])
+fire([A,3])
+fire([A,4])
+fire([B,1])
+fire([B,2])
+fire([B,3])
+fire([B,4])
+debug_test(easy)

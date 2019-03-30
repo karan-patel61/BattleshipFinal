@@ -1,0 +1,5 @@
+-- user test 1
+debug_test(easy)
+bomb([B,3],[B,4])
+bomb([C,3],[C,4])
+debug_test(easy)
